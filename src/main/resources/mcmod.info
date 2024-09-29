@@ -1,0 +1,16 @@
+[
+{
+  "modid": "daily_dad_tj_edition",
+  "name": "Daily Dad TJ Edition",
+  "description": "This is a backport of the mod called Daily Dad for the Technological Journey modpack",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mrbysco", "ItsDuska"],
+  "credits": "Mrbysco for creating the original mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
